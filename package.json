@@ -9,7 +9,7 @@
         "fix": "cd Backend && \"C:/Program Files/MongoDb/Server/4.2/bin/mongod.exe\" --repair --dbpath data"
     },
     "dependencies": {
-        "axios": "^0.19.2",
+        "axios": "^0.21.1",
         "concurrently": "^5.2.0",
         "cors": "^2.8.5"
     }
